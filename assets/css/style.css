@@ -12,7 +12,7 @@ reorganized classes to be in sequential order
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: beige;
 }
 
 /* Header styles
@@ -20,8 +20,8 @@ body {
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+    background-color: darkblue;
+    color: darkgray;
 }
 
 header h1 {
@@ -60,7 +60,7 @@ a {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/placeholder.jpg");
     background-size: cover;
     background-position: center;
 }
