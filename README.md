@@ -1,6 +1,7 @@
 # The Landing Page
 
-For this code, I was tasked with making a landing page within 45 minutes.
+For this code, I was tasked with making a landing page within 45 minutes. https://mastalukeremix.github.io/Greetings_page/
+
 
 ## Instructions
 
