@@ -20,7 +20,7 @@ body {
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: darkblue;
+    background-color: lightblue;
     color: darkgray;
 }
 
@@ -51,7 +51,7 @@ header div ul li {
 }
 
 a {
-    color: #ffffff;
+    color: darkblue;
     text-decoration: none;
 }
 
